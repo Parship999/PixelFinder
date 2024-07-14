@@ -29,7 +29,7 @@ This project is a simple web application that allows users to search for and dow
 - Click on the download button to download the image.
 
 ## API Key
-- To run this project locally, you need to obtain an API key from [Pexels](https://www.pexels.com/) and replace the apikey variable in script.js with your API key.
+- To run this project locally, we need to obtain an API key from [Pexels](https://www.pexels.com/) and replace the apikey variable in script.js with the API key.
   
   ```js
   const apikey = "mTOKbE9r3112J7VaHSsXdEL0KJfuOb6uWJH31jy0QEmcqaRoFAuuBaKk";
