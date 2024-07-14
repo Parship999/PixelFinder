@@ -16,6 +16,11 @@ This project is a simple web application that allows users to search for and dow
 - **Download**: Download images directly from the search results.
 - **Pagination**: Load more images with a "Show More" button.
 - **Responsive Design**: Works well on different screen sizes.
+- **Animations**: 
+  - Smooth background gradient transitions in the body for an engaging visual effect.
+  - Animated header element with a dynamic background clip for an eye-catching title.
+  - Interactive image hover effects to highlight images and show details.
+  - Animated search bar with dynamic placeholder text and search icon transitions.
 
 
 ## Demo
