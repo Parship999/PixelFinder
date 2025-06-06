@@ -7,8 +7,6 @@
 
 A modern, responsive web application that allows users to search for and download high-quality images powered by the Pexels API. With an elegant UI, smooth animations, and intuitive controls, PixelFinder makes finding the perfect image a breeze.
 
-![PixelFinder Banner](https://github.com/user-attachments/assets/db16c564-98fb-47b0-b7ff-056e533ce579)
-
 ## 📋 Table of Contents
 
 - [✨ Features](#-features)
